@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 ## Introduction
 This case study explores **loan default risk** for **Lending Club**, a consumer finance company and online marketplace specializing in various types of loans for urban customers. By leveraging **data-driven insights** and **Exploratory Data Analysis (EDA)**, our goal is to identify characteristics associated with **high-risk applicants** who are more likely to default on loans. Understanding these characteristics is crucial for reducin **credit loss**—a significant financial impact for lenders.
 
