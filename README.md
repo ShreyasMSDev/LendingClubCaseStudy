@@ -110,4 +110,4 @@ The dataset consists of records for loans issued from 2007 to 2011, including de
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the [learn.upgrad](https://learn.upgrad.com/) platform.
 
 ## Contact
-Created by [@ShreyasMSDev] - feel free to contact me!
+Created by [@ShreyasMSDev](https://github.com/ShreyasMSDev) - feel free to contact me!
